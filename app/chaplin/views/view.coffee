@@ -1,3 +1,5 @@
+Backbone = require 'backbone'
+_ = require 'underscore'
 utils = require 'chaplin/lib/utils'
 Subscriber = require 'chaplin/lib/subscriber'
 require 'chaplin/lib/view_helper'

@@ -1,3 +1,5 @@
+Backbone = require 'backbone'
+_ = require 'underscore'
 Subscriber = require 'chaplin/lib/subscriber'
 
 module.exports = class Model extends Backbone.Model

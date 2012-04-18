@@ -1,3 +1,5 @@
+Backbone = require 'backbone'
+_ = require 'underscore'
 Subscriber = require 'chaplin/lib/subscriber'
 SyncMachine = require 'chaplin/lib/sync_machine'
 
