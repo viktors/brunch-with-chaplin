@@ -8,4 +8,4 @@ module.exports = class NavigationController extends Controller
     super
     #console.debug 'NavigationController#initialize'
     @model = new Navigation()
-    @view = new NavigationView model: @model
+    @view = new NavigationView({@model})
