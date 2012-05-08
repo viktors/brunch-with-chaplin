@@ -1,3 +1,5 @@
+_ = require 'underscore'
+$ = require 'jquery'
 utils = require 'lib/utils'
 Subscriber = require 'chaplin/lib/subscriber'
 

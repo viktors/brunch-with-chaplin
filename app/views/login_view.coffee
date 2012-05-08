@@ -1,3 +1,4 @@
+_ = require 'underscore'
 mediator = require 'mediator'
 utils = require 'lib/utils'
 View = require './view'
