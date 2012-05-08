@@ -1,3 +1,5 @@
+Backbone = require 'backbone'
+_ = require 'underscore'
 mediator = require 'mediator'
 Subscriber = require 'chaplin/lib/subscriber'
 Route = require 'chaplin/lib/route'

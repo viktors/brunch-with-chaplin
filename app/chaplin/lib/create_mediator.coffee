@@ -1,3 +1,5 @@
+Backbone = require 'backbone'
+_ = require 'underscore'
 support = require 'chaplin/lib/support'
 
 # Mediator constructor

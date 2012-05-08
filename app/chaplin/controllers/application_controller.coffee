@@ -1,3 +1,4 @@
+_ = require 'underscore'
 mediator = require 'mediator'
 utils = require 'chaplin/lib/utils'
 Subscriber = require 'chaplin/lib/subscriber'

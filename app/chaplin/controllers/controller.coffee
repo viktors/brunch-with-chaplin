@@ -1,3 +1,4 @@
+_ = require 'underscore'
 Subscriber = require 'chaplin/lib/subscriber'
 
 module.exports = class Controller
