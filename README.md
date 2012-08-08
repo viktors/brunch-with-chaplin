@@ -10,6 +10,9 @@ Requires Brunch 1.4+.
 * Removed stylus and handlebars deps, added jade and less deps
 * Removed generators
 
+## Usage
+brunch n test -s github://viktors/brunch-with-chaplin
+
 ## Getting started
 * Create new project via executing `brunch new <project name>`.
 Brunch with chaplin is a default application skeleton for Brunch,
