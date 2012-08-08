@@ -9,6 +9,8 @@ Requires Brunch 1.4+.
 ## Modifications by viktors
 * Removed stylus and handlebars deps, added jade and less deps
 * Removed generators
+* Bootstrap 2.0.4
+* Font Awesome [ee55c85](https://github.com/FortAwesome/Font-Awesome/commit/ee55c859d23af4a3d4825610815ed5926c417101), integrated using http://fortawesome.github.com/Font-Awesome/#integration
 
 ## Usage
 brunch n test -s github://viktors/brunch-with-chaplin
