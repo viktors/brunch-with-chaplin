@@ -8,6 +8,7 @@ Requires Brunch 1.4+.
 
 ## Modifications by viktors
 * Removed stylus and handlebars deps, added jade and less deps
+* Removed generators
 
 ## Getting started
 * Create new project via executing `brunch new <project name>`.
